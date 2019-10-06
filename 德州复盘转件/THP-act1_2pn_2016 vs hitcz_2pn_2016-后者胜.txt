@@ -1,0 +1,22 @@
+STATE:0:f:8h4c|6c5h:50|-50:act1_2pn_2016|hitcz_2pn_2016;
+STATE:1:r273f:6h9c|Jc8h:-100|100:hitcz_2pn_2016|act1_2pn_2016;
+STATE:2:cr550f:QcAc|TsAs:100|-100:act1_2pn_2016|hitcz_2pn_2016;
+STATE:3:cc/cr200c/cc/cc:2dQh|6d3s/Jc4h2c/Tc/6c:-200|200:hitcz_2pn_2016|act1_2pn_2016;
+STATE:4:f:8cTc|9sAd:50|-50:act1_2pn_2016|hitcz_2pn_2016;
+STATE:5:r223f:9d4c|JdTd:-100|100:hitcz_2pn_2016|act1_2pn_2016;
+STATE:6:r3361r20000f:9c9s|7s7d:3361|-3361:act1_2pn_2016|hitcz_2pn_2016;
+STATE:7:cc/cr200f:4d3d|KdQh/QcTsAc:-100|100:hitcz_2pn_2016|act1_2pn_2016;
+STATE:8:f:7c5s|6h6s:50|-50:act1_2pn_2016|hitcz_2pn_2016;
+STATE:9:r223f:Qd4c|Jh3s:-100|100:hitcz_2pn_2016|act1_2pn_2016;
+STATE:10:f:5d5s|3dQc:50|-50:act1_2pn_2016|hitcz_2pn_2016;
+STATE:11:r273f:Ad8s|QcTd:-100|100:hitcz_2pn_2016|act1_2pn_2016;
+STATE:12:cc/cc/cc/r360r14979c:4s6h|9d9s/3s7d4c/4h/Kc:14979|-14979:act1_2pn_2016|hitcz_2pn_2016;
+STATE:13:r223f:3h6d|Jh5c:-100|100:hitcz_2pn_2016|act1_2pn_2016;
+STATE:14:f:4s5s|9c2d:50|-50:act1_2pn_2016|hitcz_2pn_2016;
+STATE:15:r223c/cr520f:KdTd|5d4c/8c7h3c:-223|223:hitcz_2pn_2016|act1_2pn_2016;
+STATE:16:f:6sKh|9s4h:50|-50:act1_2pn_2016|hitcz_2pn_2016;
+STATE:17:r273f:Ad5h|Kh9c:-100|100:hitcz_2pn_2016|act1_2pn_2016;
+STATE:18:f:2h5d|6cJs:50|-50:act1_2pn_2016|hitcz_2pn_2016;
+STATE:19:r223f:As7d|Kh6h:-100|100:hitcz_2pn_2016|act1_2pn_2016;
+STATE:20:f:2c4d|5cQc:50|-50:act1_2pn_2016|hitcz_2pn_2016;
+{[THP][act1_2pn_2016][hitcz_2pn_2016][hitcz_2pn_2016Ó®µÃ1000¸ö³ïÂë][2017.07.29 14:00 ÖØÇì][2017 CCGC]}
